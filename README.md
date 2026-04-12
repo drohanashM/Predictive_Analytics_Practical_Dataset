@@ -1,4 +1,3 @@
-# Predictive_Analytics_Practical_Dataset
 # Predictive Analytics – Body Fat Shrinkage Analysis
 
 A practical comparison of regression shrinkage methods using the Body Fat dataset.
